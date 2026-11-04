@@ -79,4 +79,4 @@ Todos reutilizan la capa ya hecha en `software/gestos/`: ratón virtual por uinp
 - [ ] ¿Basta con 1–2 dedos o quieres multitáctil completo?
 - [ ] ¿Presupuesto por pantalla y si sabes soldar o tienes impresora 3D?
 - [ ] Orden de prioridad entre: (1) seguir puliendo gestos, (2) táctil con webcam, (3) marco IR.
-- [ ] Licencia definitiva del software (MIT, Apache-2.0 o GPL-3.0).
+- [x] Licencia del software: **MIT** (decidido 2026-11-04).

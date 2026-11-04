@@ -19,3 +19,6 @@ Convertir **cualquier pantalla** (monitor, portátil, TV, proyección) en **tác
 
 ## Idea en una línea
 Un **marco IR modular** de segmentos encadenables + controlador RP2040 que se presenta como **pantalla táctil USB HID estándar** (sin drivers), con configurador web abierto.
+
+## Licencia
+[MIT](LICENSE). Úsalo, modifícalo y compártelo libremente.
