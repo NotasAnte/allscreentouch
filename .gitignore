@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Modelos descargados y datos de sesiones
+*.task
+*.csv
+
+# Editor / SO
+.idea/
+.vscode/
+.DS_Store

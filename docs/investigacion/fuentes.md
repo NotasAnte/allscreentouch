@@ -1,0 +1,38 @@
+# Fuentes (consultadas 2026-11-04)
+
+## Mercado
+- [Fruugo CA – marco IR 55"](https://www.fruugo.ca/55-inch-infrared-touch-frame-usb-interface-plug-and-play-ir-interactive-touch-screen-for-touch-whiteboards-digital-signage-kiosks/p-414030671)
+- [Fruugo CA – marco IR 15"](https://www.fruugo.ca/15-inch-infrared-touch-frame-usb-plug-and-play-interactive-touch-screen-overlay-for-kiosks/p-435867549)
+- [Fruugo US – marco IR 42"](https://www.fruugo.us/42-inch-ir-touch-frame-overlay-with-usb-precise-touch-tracking-plug-and-play-for-whiteboards/p-462157492)
+- [Desertcart – Chengying 27"](https://www.desertcart.com.cy/products/228445312-27-inch-multi-touch-10-points-infrared-touch-frame-ir.md)
+- [Desertcart – Chengying 65" 16 puntos](https://www.desertcart.co.uk/products/285233834-chengying-65-inch-multi-touch-16-points-infrared-touch-overlay.md)
+- [Digital Trends – AirBar](https://www.digitaltrends.com/cool-tech/airbar-touch-gesture-functionality-to-any-screen/)
+- [9to5Mac – AirBar MacBook Air](https://9to5mac.com/2017/01/03/airbar-macbook-air-touchscreen-conversion/)
+- [Times Free Press – AirBar](https://www.timesfreepress.com/news/edge/story/2018/dec/01/magic-touch-neonodes-airbar-ctake-your-laptop/483866/)
+- [DigiKey – Neonode zForce AIR kits](https://www.digikey.com/es/product-highlight/n/neonode/zforce-air-kits)
+- [Tech Advisor – Soladapt TouchGenie](https://www.techadvisor.com/review/soladapt-touchgenie-touchscreen-overlay-review-3499797)
+- [Pro Display – PCAP Touch Foil](https://prodisplay.com/touch-screens/interactive-overlays/pcap-touch-foil/)
+- [VentureBeat – VisualPlanet TouchFoil](https://venturebeat.com/business/any-big-surface-becomes-a-touchscreen-with-visualplanets-touchfoil)
+- [Hackster – Glamos](https://www.hackster.io/news/coredar-s-glamos-brings-lidar-into-the-home-and-office-for-gaming-presentations-and-more-8a50f6c19649)
+- [New Atlas – Glamos](https://newatlas.com/around-the-home/glamos-virtual-touchscreen-gesture-control)
+- [Slamtec – multitáctil con RPLIDAR](https://www.slamtec.com/ko/news/detailen/how-to-build-a-multi-touch-application-using-rplidar)
+
+## Técnica
+- [Patente US7855716 – Infrared touchframe system](https://patents.google.com/patent/US7855716)
+- [Patente US9013450 – IR touch](https://patents.google.com/patent/US9013450)
+- [Elo – Opto-Matrix frames](https://elosupport.elotouch.com/hc/en-us/articles/31649648363671-Definition-Opto-Matrix-Frame)
+
+## Open source / DIY
+- [Hackaday.io – Magic Frame](https://hackaday.io/project/27155-magic-frame-turn-everything-into-a-touch-area)
+- [Hackaday – DIY multi-touch all the surfaces](https://hackaday.com/2017/11/04/diy-multi-touch-all-the-surfaces)
+- [Hackaday – A huge infra-red touch board](https://hackaday.com/2017/04/11/a-huge-infra-red-touch-board)
+- [Amanda Ghassaei – Multitouch](https://amandaghassaei.com/multitouch)
+- [NUI Group GSoC 2012 – Open Source IR Frame](https://google-melange.com/archive/gsoc/2012/orgs/nuigroup/projects/a_g_pirogov.html)
+- [Anish Athalye – MacBook touchscreen (Sistine)](https://anishathalye.com/macbook-touchscreen/)
+- [GitHub – Windows-Touch](https://github.com/ashishgupta1350/Windows-Touch)
+- [GitHub – manitas](https://www.github.com/nacmartin/manitas)
+- [Roboflow – Any screen touchless (2026)](https://roboflow.com/blog/egocentric-hand-keypoint-detection)
+- [CMU – OmniTouch](https://www.cmu.edu/news/stories/archives/2011/october/oct17_omnitouch.html)
+- [Digital Trends – WorldKit](https://digitaltrends.com/computing/meet-worldkit-the-projector-that-turns-everything-into-a-touchscreen)
+- [MIT – Touch projector con Kinect 2](https://fpga.mit.edu/videos/2017/team08/report.pdf)
+- [Blog – HID personalizado con RP2040 + TinyUSB](https://myoldpcs.blogspot.com/2025/10/lets-start-from-afar-and-go-back-30.html)
